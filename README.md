@@ -2,8 +2,8 @@
 
 ## Presentation
 
-[Download PDF](pitc-go-workshop.pdf)
-[Download ODP](pitc-go-workshop.odp)
+* [Download PDF](pitc-go-workshop.pdf)
+* [Download ODP](pitc-go-workshop.odp)
 
 ## Go Hello World
 
@@ -11,8 +11,8 @@
 
 ## Go enviroment
 
-[GVM Installation](https://github.com/andrewkroh/gvm#installation)
-[Visual Studio Code](https://code.visualstudio.com/docs/setup/linux)
+* [GVM Installation](https://github.com/andrewkroh/gvm#installation)
+* [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux)
 
 ## Exercise 1 - Coffee or beer?
 Skeleton: `git clone https://github.com/KeeTraxx/pitc-go-coffee-or-beer`
