@@ -3,7 +3,7 @@
 ## Presentation
 
 [Download PDF](pitc-go-workshop.pdf)
-[Download ODF](pitc-go-workshop.odf)
+[Download ODP](pitc-go-workshop.odp)
 
 ## Go Hello World
 
